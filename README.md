@@ -31,4 +31,6 @@ java -jar mysqldoc-1.0-SNAPSHOT.jar --host localhost --user root --password root
 java -jar target/mysqldoc-1.0-SNAPSHOT.jar --host localhost --user root --password root --db testdb
 ```
 
+######  原作者
 
+[@yingfu9218](https://github.com/yingfu9218/mysqldoc)
