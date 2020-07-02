@@ -31,6 +31,10 @@ java -jar mysqldoc-1.0-SNAPSHOT.jar --host localhost --user root --password root
 java -jar target/mysqldoc-1.0-SNAPSHOT.jar --host localhost --user root --password root --db testdb
 ```
 
+###### 计划
+- [ ] 生成MD模板可配置
+- [ ] 生成HTML模板可配置
+
 ######  原作者
 
 [@yingfu9218](https://github.com/yingfu9218/mysqldoc)
